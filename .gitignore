@@ -1,0 +1,8 @@
+node_modules/
+clients/
+temp/*
+!temp/.gitkeep
+*.log
+.env
+.DS_Store
+npm-debug.log*
